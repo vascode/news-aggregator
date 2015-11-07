@@ -1,3 +1,5 @@
+demo is available on http://vascode.github.io/news-aggregator/
+
 # Udacity 60fps Course Samples
 
 **Please note: this code is intended for you to hone your debugging skills. It contains a lot of code that you should not use in production!**
